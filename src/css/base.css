@@ -16,13 +16,13 @@
   -webkit-text-size-adjust: 100%;
 }
 
-body {
+/* body {
   display: flex;
   flex-direction: column;
   min-width: 100vw;
   min-height: 100vh;
   margin: 0;
-}
+} */
 
 main {
   flex-grow: 1;
