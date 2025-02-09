@@ -15,7 +15,7 @@ const options = {
       startButton.disabled = true;
       iziToast.error({
         title: 'Error',
-        message: 'Please choose a date in the future',
+        message: 'Будь ласка, оберіть дату з майбутнього',
       });
     }
   },
